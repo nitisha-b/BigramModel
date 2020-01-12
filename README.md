@@ -10,6 +10,7 @@ uses the word with the highest probability to predict what comes after my in the
 It could be "dog", "life", "wife" anything, whichever appears the most in the given corpus. 
 
 <br>
+<br>
 
 This model finds the bigrams with the top 5 or 7 probabilities and randomly picks one bigram from the lot and uses the second index
 as the next predicted word. 
